@@ -1,0 +1,15 @@
+C:\Sudhir\DotNet\DesignPatterns\FacadePattern\FacadePatternApp\bin\Debug\net7.0\FacadePatternApp.exe
+C:\Sudhir\DotNet\DesignPatterns\FacadePattern\FacadePatternApp\bin\Debug\net7.0\FacadePatternApp.deps.json
+C:\Sudhir\DotNet\DesignPatterns\FacadePattern\FacadePatternApp\bin\Debug\net7.0\FacadePatternApp.runtimeconfig.json
+C:\Sudhir\DotNet\DesignPatterns\FacadePattern\FacadePatternApp\bin\Debug\net7.0\FacadePatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\FacadePattern\FacadePatternApp\bin\Debug\net7.0\FacadePatternApp.pdb
+C:\Sudhir\DotNet\DesignPatterns\FacadePattern\FacadePatternApp\obj\Debug\net7.0\FacadePatternApp.csproj.AssemblyReference.cache
+C:\Sudhir\DotNet\DesignPatterns\FacadePattern\FacadePatternApp\obj\Debug\net7.0\FacadePatternApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sudhir\DotNet\DesignPatterns\FacadePattern\FacadePatternApp\obj\Debug\net7.0\FacadePatternApp.AssemblyInfoInputs.cache
+C:\Sudhir\DotNet\DesignPatterns\FacadePattern\FacadePatternApp\obj\Debug\net7.0\FacadePatternApp.AssemblyInfo.cs
+C:\Sudhir\DotNet\DesignPatterns\FacadePattern\FacadePatternApp\obj\Debug\net7.0\FacadePatternApp.csproj.CoreCompileInputs.cache
+C:\Sudhir\DotNet\DesignPatterns\FacadePattern\FacadePatternApp\obj\Debug\net7.0\FacadePatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\FacadePattern\FacadePatternApp\obj\Debug\net7.0\refint\FacadePatternApp.dll
+C:\Sudhir\DotNet\DesignPatterns\FacadePattern\FacadePatternApp\obj\Debug\net7.0\FacadePatternApp.pdb
+C:\Sudhir\DotNet\DesignPatterns\FacadePattern\FacadePatternApp\obj\Debug\net7.0\FacadePatternApp.genruntimeconfig.cache
+C:\Sudhir\DotNet\DesignPatterns\FacadePattern\FacadePatternApp\obj\Debug\net7.0\ref\FacadePatternApp.dll
